@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "neo4j-knowledge-graph": {
+      "url": "http://127.0.0.1:8000/sse",
+      "name": "Neo4j知识图谱",
+      "description": "德国家族企业知识图谱查询服务"
+    }
+  }
+} 
